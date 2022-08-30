@@ -1,8 +1,9 @@
 package main
 
 import (
-	"amirhasanzade/playground/mypackage"
 	"fmt"
+
+	"github.com/amirhasanzade/playground/mypackage"
 )
 
 func main() {
